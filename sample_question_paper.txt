@@ -1,0 +1,24 @@
+SMART QUESTION PAPER ANALYZER - SAMPLE QUESTION PAPER
+
+Natural Language Processing
+
+1. Define Natural Language Processing and explain its applications.
+2. What is tokenization in Natural Language Processing?
+3. Explain text preprocessing techniques used in NLP.
+4. What is stop word removal? Explain its importance.
+5. Define stemming and explain the stemming process.
+6. What is lemmatization? Explain with an example.
+7. Explain the difference between stemming and lemmatization.
+8. What is part-of-speech tagging in NLP?
+9. Explain named entity recognition and its applications.
+10. What is sentiment analysis? Explain its working.
+11. Define Natural Language Processing and discuss its applications.
+12. Explain text preprocessing techniques used for NLP.
+13. What is tokenization and why is it important?
+14. Explain the role of stop word removal in text preprocessing.
+15. What is text classification? Explain its applications in NLP.
+16. Explain the difference between Natural Language Understanding and Natural Language Generation.
+17. What is a corpus in Natural Language Processing?
+18. Explain word frequency analysis and keyword extraction.
+19. What are the common challenges in Natural Language Processing?
+20. Explain the applications of NLP in education and healthcare.
