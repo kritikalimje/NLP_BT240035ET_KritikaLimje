@@ -1,0 +1,83 @@
+SMART QUESTION PAPER ANALYSIS REPORT
+==================================================
+
+Total Words       : 189
+Unique Words      : 84
+Total Questions   : 20
+Meaningful Words  : 94
+Unique Keywords   : 47
+
+Top Keywords:
+------------------------------
+natural              8
+language             8
+processing           6
+applications         5
+nlp                  5
+text                 4
+preprocessing        3
+word                 3
+stemming             3
+question             2
+
+NLP Processing Applied:
+• Text Cleaning
+• Tokenization
+• Stop-word Removal
+• Keyword Extraction
+• Frequency Analysis
+• Question Similarity Analysis
+• Topic Frequency Analysis
+
+
+
+TOP KEYWORDS
+========================================
+natural : 8
+language : 8
+processing : 6
+applications : 5
+nlp : 5
+text : 4
+preprocessing : 3
+word : 3
+stemming : 3
+question : 2
+paper : 2
+tokenization : 2
+techniques : 2
+used : 2
+stop : 2
+
+
+QUESTION ANALYSIS
+========================================
+1. 1. Define Natural Language Processing and explain its applications.
+2. 2. What is tokenization in Natural Language Processing?
+3. 3. Explain text preprocessing techniques used in NLP.
+4. 4. What is stop word removal? Explain its importance.
+5. 5. Define stemming and explain the stemming process.
+6. 6. What is lemmatization? Explain with an example.
+7. 7. Explain the difference between stemming and lemmatization.
+8. 8. What is part-of-speech tagging in NLP?
+9. 9. Explain named entity recognition and its applications.
+10. 10. What is sentiment analysis? Explain its working.
+11. 11. Define Natural Language Processing and discuss its applications.
+12. 12. Explain text preprocessing techniques used for NLP.
+13. 13. What is tokenization and why is it important?
+14. 14. Explain the role of stop word removal in text preprocessing.
+15. 15. What is text classification? Explain its applications in NLP.
+16. 16. Explain the difference between Natural Language Understanding and Natural Language Generation.
+17. 17. What is a corpus in Natural Language Processing?
+18. 18. Explain word frequency analysis and keyword extraction.
+19. 19. What are the common challenges in Natural Language Processing?
+20. 20. Explain the applications of NLP in education and healthcare.
+
+
+SIMILAR / REPEATED QUESTIONS
+========================================
+1. Define Natural Language Processing and explain its applications.  <-->  11. Define Natural Language Processing and discuss its applications.  Similarity: 90.1%
+2. What is tokenization in Natural Language Processing?  <-->  17. What is a corpus in Natural Language Processing?  Similarity: 79.6%
+2. What is tokenization in Natural Language Processing?  <-->  19. What are the common challenges in Natural Language Processing?  Similarity: 71.8%
+3. Explain text preprocessing techniques used in NLP.  <-->  12. Explain text preprocessing techniques used for NLP.  Similarity: 92.3%
+17. What is a corpus in Natural Language Processing?  <-->  19. What are the common challenges in Natural Language Processing?  Similarity: 75.4%
